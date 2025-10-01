@@ -18,7 +18,7 @@
 		<java.version>17</java.version>
 	</properties>
 
-    <!-- 변경된 내용만 PR -->
+    <!-- VS PR1 -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
