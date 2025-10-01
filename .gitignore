@@ -207,7 +207,7 @@ replay_pid*
 
 -- java
 
-
+target/**
 target/
 pom.xml.tag
 pom.xml.releaseBackup
