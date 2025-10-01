@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
 public class Application {
-`   // PR 테스트
+
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
