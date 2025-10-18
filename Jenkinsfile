@@ -6,12 +6,14 @@ pipeline {
             agent any
             
             steps {
-                echo 'push test2'
+                echo 'multi-1'
+                
             }
         }
         stage('mytest') {
             steps {
-                echo 'my test'
+                echo 'multi-2'
+
             }
         }
     }
