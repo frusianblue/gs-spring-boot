@@ -6,9 +6,13 @@ pipeline {
             agent any
             
             steps {
-                echo 'Hello World'
+                echo 'push test'
             }
         }
-
+        stage('mytest') {
+            steps {
+                echo 'my test'
+            }
+        }
     }
 }
