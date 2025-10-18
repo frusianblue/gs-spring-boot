@@ -7,7 +7,7 @@ pipeline {
             
             steps {
                 echo 'multi-1'
-                echo 'test2'
+                echo 'test3'
             }
         }
         stage('mytest') {
