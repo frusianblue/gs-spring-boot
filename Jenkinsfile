@@ -6,7 +6,7 @@ pipeline {
             agent any
             
             steps {
-                echo 'push test'
+                echo 'push test2'
             }
         }
         stage('mytest') {
